@@ -1,4 +1,4 @@
-# react-mobx-starter project
+# react-ts-starter project
 
 Want to have a quickstart with react, mobx and typescript?
 
